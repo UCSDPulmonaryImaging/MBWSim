@@ -1,5 +1,5 @@
 # MBWSim
-MatLab Simulation of a simple 2-compartment lung for exploring Second effects
+MatLab Simulation of a simple 2-compartment lung for exploring Scond effects
 
 These are the MatLab files for the MBW simulation used in the Paper in JAPPL.
 Author: G. Kim Prisk
