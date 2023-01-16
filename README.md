@@ -16,5 +16,5 @@ In order to generate a Phase III slope there needs to be SV difference -AND- seq
 
 Sacin is not explicitly simulated, but you can add in a fized offset of SnIII that mimics this
 
-There is not commen deadsapce, instead we use masss balance to "pretend" there is one.
+There is no common deadsapce, or individual deadspaces, instead we use masss balance to "pretend" there is one.
 CO2 is fixed at 5%
